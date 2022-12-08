@@ -1,0 +1,2 @@
+FROM tomee
+MAINTAINER admin
