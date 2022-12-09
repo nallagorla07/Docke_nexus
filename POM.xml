@@ -1,3 +1,0 @@
-FROM tomee
-MAINTAINER admin
-EXPOSE 8080
