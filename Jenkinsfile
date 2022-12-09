@@ -10,7 +10,7 @@ node {
     stage('Build image') {
         /* This builds the actual image */
 
-        app = docker.build("nvn9/nodeapp")
+        app = docker.build("nvn9/tomcat")
     }
 
     stage('Test image') {
